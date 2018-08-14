@@ -1,4 +1,4 @@
-# Personalized-News-Reader-Bot
+# Personalized News Reader Bot
 
 Meet our very own pal: NewsBerry
 
