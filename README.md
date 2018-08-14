@@ -12,7 +12,7 @@ Get ready to explore the world with NewsBerry...
 
 Try NewsBerry, and you'll never have to pick up a paper again.
 
-** How it works? **
+**How it works?**
 
 NewsBerry accesses the NewsAPI and gathers all the data from the API. NewsBerry puts that data through the IBM Watson API in order to get even more cool features about the news and puts it all into its own database. When a user asks NewsBerry a question, it queries the databases and tells the user excatly what the user wants.
 
